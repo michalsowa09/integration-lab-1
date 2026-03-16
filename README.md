@@ -11,3 +11,5 @@ Aby uruchomić serwer, używam komendy:
 `python manage.py runserver`
 
 Więcej informacji o technologii znajdziesz tutaj: [Oficjalna dokumentacja Django](https://docs.djangoproject.com/en/5.0/)
+
+Zmiana wykonana zdalnie na githubie.
