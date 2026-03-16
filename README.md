@@ -11,3 +11,5 @@ Aby uruchomić serwer, używam komendy:
 `python manage.py runserver`
 
 Więcej informacji o technologii znajdziesz tutaj: [Oficjalna dokumentacja Django](https://docs.djangoproject.com/en/5.0/)
+
+Laboratorium wykonał: Michał Sowa grp.235IC_A1 nr. Albumu: 25957
