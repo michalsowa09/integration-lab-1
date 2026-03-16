@@ -12,4 +12,4 @@ Aby uruchomić serwer, używam komendy:
 
 Więcej informacji o technologii znajdziesz tutaj: [Oficjalna dokumentacja Django](https://docs.djangoproject.com/en/5.0/)
 
-Moja własna lokalna zmiana w VS Code.
+Moja własna lokalna zmiana w VS Code połączona ze zmianą wykonaną zdalnie na githubie.
